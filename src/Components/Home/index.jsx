@@ -75,7 +75,7 @@ const Home = () => {
             speed: 450,
           }}
         >
-          <img className='w-80 rounded-full   max-md:hidden'style={{borderRadius:"circle"}} src={me1} alt="" />
+          <img className='w-80 rounded-full    max-md:hidden'style={{borderRadius:"circle"}} src={me1} alt="" />
 
         </Tilt>
         </div>
