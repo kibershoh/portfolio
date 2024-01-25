@@ -9,7 +9,7 @@ const AboutMe = () => {
     <div id='aboutMe' className='h-sreen pt-10 px-40 max-lg:px-10  max-md:px-2'>
     <div className='text-center pb-10'>
       <h1 className='text-slate-500 text-xl font-semibold font-mono'>Briefly</h1>
-      <h1 className='text-violet-950 font-bold text-5xl max-lg:text-3xl max-md:text-2xl font-mono'>About <span className='text-blue-700'>Me</span></h1>
+      <h1 className='text-violet-950 font-bold text-5xl max-lg:text-3xl max-md:text-2xl font-mono'>{t('aboutMeBtn')}</h1>
     </div>
     <div className='flex max-md:flex-col  w-full py-10 items-start justify-around'>
       <div className='w-1/2 max-md:w-full max-md:pb-10'>

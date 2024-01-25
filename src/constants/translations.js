@@ -32,7 +32,7 @@ export const translations = {
     Backend:"Backend Developer",
     Freelancer:"Freelancer",
     aboutMeBtn: "About Me",
-    aboutMe:"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos ex architecto accusantium libero commodi nemo dolorem id, tenetur illum quibusdam hic nobis! Quo, perferendis. Quaerat, maiores facilis blanditiis molestias vero dicta, iure ex similique quae, aliquid est. Nisi, dolorem harum."
+    aboutMe:"I am Saminov Oybek. I am 21 years old and I am a 3rd year student at the Tashkent University of Information Technologies. I graduated from the Frontend course. My goal is to be FullStach"
   },
   uz: {
      navLinks:[
@@ -64,6 +64,7 @@ export const translations = {
     Backend:"Backend Dasturchiman",
     Freelancer:"Freelancerman",
     aboutMeBtn:"Men haqimda",
-    aboutMe:"Salom."
+    aboutMe:"Men Saminov Oybek.Yoshim 21da va men Toshkent axborot texnalogiyalari universitetida 3-kurs talabasiman.Men Frontend yo'nalishini tamomlaganman. Maqsadim FullStach  bo'lish",
+
   }
 };
