@@ -1,0 +1,11 @@
+.aboutMe{
+    .downIcon{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+&:hover{
+    .downIcon{
+        transform: translateY(5px);
+        transition: all .5s;
+    }
+}
+}
